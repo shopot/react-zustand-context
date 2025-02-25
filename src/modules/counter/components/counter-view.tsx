@@ -1,4 +1,5 @@
 import { type JSX } from 'react';
+
 import { useCounterStore } from '../store/counterStore';
 
 export const CounterView = (): JSX.Element => {
